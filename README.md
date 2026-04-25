@@ -7,7 +7,7 @@
 Также в есть пример полей скорости (_Frame_ex.mat_), которые служат для демонстрации работоспособности кода. Его можно получить по ссылке (https://drive.google.com/drive/folders/172GTVYK1z-JLSuFKj7Btnd1GX9RyNQWN?usp=sharing)
 Кроме того, результат работы можно увидеть по ссылке: https://www.youtube.com/watch?v=Dfqi34WKLEI&feature=youtu.be
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Dfqi34WKLEI&feature=youtu.be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 В коде присутствуют комментарии, тут тоже описана работа этого кода.
